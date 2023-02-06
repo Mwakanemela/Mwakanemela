@@ -15,5 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+```
 🔭 docs.github.com is cool.
 ⚡ Fun fact: .. I am all about code
+$ git init
+Initialized empty Git repository in....
+```
