@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 $ git init
 Initialized empty Git repository in....
 ```
+- [x] github.com/skills
+- [x] Mwakanemela Kayange
+- [x] MarkDown (.md) langueage is fun 
