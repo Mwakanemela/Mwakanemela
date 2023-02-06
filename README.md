@@ -24,4 +24,4 @@ Initialized empty Git repository in....
 ```
 - [x] github.com/skills
 - [x] Mwakanemela Kayange
-- [x] MarkDown (.md) langueage is fun 
+- [x] MarkDown (.md) language is fun 
