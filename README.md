@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 🔭 docs.github.com is cool.
 ⚡ Fun fact: .. I am all about code
 $ git init
-Initialized empty Git repository in....
+Initialized non-empty Git repository in....
 ```
 - [x] github.com/skills
 - [x] Mwakanemela Kayange
